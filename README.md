@@ -23,7 +23,9 @@ We will be considering two datasets for exploring and analyzing the stock moveme
 Dataset 1 contains 221,504 rows and 9 columns and the size of the data is 273 MB
 
 Dataset 2 contains 799851 rows and 8 columns.
+
 Attributes include:
+
 id: Auto-incremented count of order when the item was collected
 ticker: A ticker symbol or stock symbol is an abbreviation used to uniquely identify publicly traded shares of a particular stock
 title: News headline
