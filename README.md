@@ -21,9 +21,9 @@ release_date: Date of news release, has no time of a day
 provider: Attribution to the content author. Name of a source of the content
 URL: Link to the original source of the content
 article_id: Unique identifier of the article assigned by investing.com website
-#What will be your unit of analysis (for example, patient, organization, or country)?
+# What will be your unit of analysis (for example, patient, organization, or country)?
 News
-#What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
+# What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
 In this project, the Machine Learning tools we plan to use to analyze the stock market are Valence Aware Dictionary for Sentiment Reasoning (VADER) with different classification models like
 KNN
 Decision tree
@@ -31,8 +31,8 @@ Random forest
 SVM
 Logistic Regression 
 Gaussian Naive Bayes
-#How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?
+# How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?
 We are planning on using Sentiment analysis with VADER and various ML algorithms like KNN, Decision Tree, Random Forest, SVM, Logistics Regression, and Gaussian Naive Bayes to determine which algorithm has the highest accuracy in predicting the stock movement. The main reason we would like to use VADER is that it not only extracts sentiment but also tells us about how positive or negative the sentiment is. 
-#What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practical applications, etc)?
+# What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practical applications, etc)?
 In this project, we are planning to perform sentiment analysis on the news and opinions published by different financial news websites. Later, we will be training the highest accuracy model among all the models used by combining stock data with news sentiment in order to predict the stock movement.
 
