@@ -1,6 +1,6 @@
-# UMBC DATA606 Data Science Capstone Project
+**UMBC DATA606 Data Science Capstone Project**
 
-# Capstone Project Proposal
+**Capstone Project Proposal**
 
 # STOCK TREND PREDICTION USING SENTIMENT ANALYSIS
 
@@ -59,11 +59,17 @@ I would like to look at sentiment scores and yahoo financial information like im
 **What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?**
 
 In this project, the Machine Learning tools we plan to use to analyze the stock market are Valence Aware Dictionary for Sentiment Reasoning (VADER) with different classification models like
+
 KNN
+
 Decision tree
+
 Random forest 
+
 SVM
+
 Logistic Regression 
+
 Gaussian Naive Bayes
 
 **How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?**
