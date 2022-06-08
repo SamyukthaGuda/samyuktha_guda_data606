@@ -1,3 +1,7 @@
+# UMBC DATA606 Data Science Capstone Project
+
+# Capstone Project Proposal
+
 # STOCK TREND PREDICTION USING SENTIMENT ANALYSIS
 
 Team Mates : Samyuktha Guda, Samyuktha Jalagam, Nikhitha Alla
