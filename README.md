@@ -27,13 +27,21 @@ Dataset 2 contains 799851 rows and 8 columns.
 Attributes include:
 
 id: Auto-incremented count of order when the item was collected
+
 ticker: A ticker symbol or stock symbol is an abbreviation used to uniquely identify publicly traded shares of a particular stock
+
 title: News headline
+
 category: Type: news or analysis/opinion
+
 content: News body
+
 release_date: Date of news release, has no time of a day
+
 provider: Attribution to the content author. Name of a source of the content
+
 URL: Link to the original source of the content
+
 article_id: Unique identifier of the article assigned by investing.com website
 
 **What will be your unit of analysis (for example, patient, organization, or country)?**
