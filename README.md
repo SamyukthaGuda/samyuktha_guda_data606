@@ -50,7 +50,7 @@ article_id: Unique identifier of the article assigned by investing.com website
 
 **What will be your unit of analysis (for example, patient, organization, or country)?**
 
-The Unit of analysis here is an Organization and my units of observation are sentiment of twitter tweets.
+The Unit of analysis here is an Organization and my units of observation are sentiment of financial news articles.
 
 **What variables/measures do you plan to use in your analysis (variables should be tied to the questions in #3)?**
 
@@ -58,7 +58,7 @@ I would like to look at sentiment scores and yahoo financial information like im
 
 **What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?**
 
-In this project, the Machine Learning tools we plan to use to analyze the stock market are Valence Aware Dictionary for Sentiment Reasoning (VADER) with different classification models like
+In this project, the techniques we plan to use to analyze the stock market are Valence Aware Dictionary for Sentiment Reasoning (VADER) with different classification models like
 
 KNN
 
