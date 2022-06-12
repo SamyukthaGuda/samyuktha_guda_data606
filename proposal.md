@@ -7,7 +7,7 @@
 
 In this project, we will be presenting a website in which the following applications would be implemented; Crop recommendation, Fertilizer recommendation, and Plant disease prediction, respectively.
 
-# Samyuktha Guda #
+### Samyuktha Guda ###
 
 Crop recommendation application - Data cleaning, Visualization, Decision tree, naive, SVM, Logistic regression, XG-boost
 
