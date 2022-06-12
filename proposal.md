@@ -1,6 +1,6 @@
 ## UMBC DATA606 Data Science Capstone Project ##
 
-## Project Proposal ##
+## Project Proposal - SMART FARMING ##
 
 ![image](https://user-images.githubusercontent.com/78180757/173258582-eb2cce29-6e5e-4c9f-9ce6-e7a4016a17c6.png)
 
