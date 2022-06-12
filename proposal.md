@@ -2,7 +2,11 @@
 
 ## Capstone Project Proposal ##
 
+![image](https://user-images.githubusercontent.com/78180757/173258582-eb2cce29-6e5e-4c9f-9ce6-e7a4016a17c6.png)
+
+
 # “We turn fertile lands into deserts by using ineffective farming technologies. There is no future until we return to effective farming and save the soil.” 
+
 ## Team: Roles and Responsibilities ##
 
 In this project, we will be presenting a website in which the following applications would be implemented; Crop recommendation, Fertilizer recommendation, and Plant disease prediction, respectively.
@@ -11,11 +15,11 @@ In this project, we will be presenting a website in which the following applicat
 
 Crop recommendation application - Data cleaning, Visualization, Decision tree, naive, SVM, Logistic regression, XG-boost
 
-**Samyuktha Jalagam**
+### Samyuktha Jalagam ###
 
 Fertilizer recommendation application – Data Visualization using Matplotlib, Decision tree, naive, SVM, Logistic regression, XG-boost
 
-**Nikhitha Alla**
+### Nikhitha Alla ###
 
 Plant disease prediction application - Image pre-processing, ResNet 50 classification, Feature extraction
 
