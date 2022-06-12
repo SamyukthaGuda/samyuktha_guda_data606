@@ -34,9 +34,9 @@ Furthermore, 48% of farmers do not want their children to be involved in agricul
 
 ### What questions do you have in mind and would like to answer? ###
 
-         How to safeguard the soil from losing its fertility owing to poor farming techniques?
-         How to treat crop disease organically rather than using heavy fertilizers?
-         How to Cultivate the right crop in the right soil to reduce the risk of soil property degradation?
+How to safeguard the soil from losing its fertility owing to poor farming techniques?
+How to treat crop disease organically rather than using heavy fertilizers?
+How to Cultivate the right crop in the right soil to reduce the risk of soil property degradation?
 
 ### Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, attributes of data. etc.) ###
 
