@@ -13,11 +13,11 @@ In this project, we will be presenting a website in which the following applicat
 
 ### Samyuktha Guda ###
 
-**Crop recommendation application** - Data cleaning, Visualization, Decision tree, naive, SVM, Logistic regression, XG-boost
+**Crop recommendation application** - Data cleaning, Visualization, Decision tree, Naive Bayes, SVM, Logistic regression, XG-boost
 
 ### Samyuktha Jalagam ###
 
-**Fertilizer recommendation application** – Data Visualization using Matplotlib, Decision tree, naive, SVM, Logistic regression, XG-boost
+**Fertilizer recommendation application** – Data Visualization using Matplotlib, Decision tree, Naive Bayes, SVM, Logistic regression, XG-boost
 
 ### Nikhitha Alla ###
 
