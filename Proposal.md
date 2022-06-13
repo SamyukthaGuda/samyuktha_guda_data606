@@ -60,7 +60,7 @@ We will be using state, district, crop, area, and temperature in our analysis.
 
 ### What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)? ###
 
-In this project, we are planning to use machine learning approaches like Random Forest and Decision Tree to predict the crop based on soil type. We are also planning to use neural network techniques, such as Back Propagation and Principal Component Analysis, to identify the fungi disease (PCA). Before cultivation, the crops were ranked using Decision Tree Learning. An Artificial Neural Network will be implemented to predict crop disease and recommend measures to treat the crop organically. The random forest algorithm would be implemented to analyze crop features. Finally, we are planning on deploying our project in an AWS EC2 instance. We are also using image processing techniques.
+In this project, we are planning to use machine learning approaches like Random Forest and Decision Tree to predict the crop based on soil type. We are also planning to use neural network techniques, such as Back Propagation and Principal Component Analysis, to identify the fungi disease (PCA). Before cultivation, the crops will be ranked using Decision Tree Learning. An Artificial Neural Network will be implemented to predict crop disease and recommend measures to treat the crop organically. The random forest algorithm would be implemented to analyze crop features. Finally, we are planning on deploying our project in an AWS EC2 instance. We are also using image processing techniques.
  ![image](https://user-images.githubusercontent.com/78180757/173258426-c6f6f81c-f06e-4b0a-8832-1b1046492440.png)
 
 
